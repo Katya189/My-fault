@@ -1,0 +1,90 @@
+body {
+   background: rgba(192, 199, 217, 1) ;
+   font-family: Comfortaa;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    background-color: rgba(47, 77, 152, 1);
+    color: white;
+}
+
+nav a{
+    font-family: Comfortaa;
+    font-size: 36px;
+    color: rgba(47, 77, 152, 1);
+    background-color: white;
+    border: 3px solid rgba(47, 77, 152, 1);
+    padding: 5px 15px;
+    margin: 10px 15px;
+}
+
+nav{
+    text-align: right;
+    margin-top: 30px;
+}
+
+/* img{
+    height: 250px;
+    width: 250px;
+} */
+
+.special_link {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(47, 77, 152, 1);
+    border: 3px solid rgba(47, 77, 152, 1);
+    padding: 5px 15px;
+    margin: 10px 15px;
+}
+
+img a{
+    height: 100px;
+    width: 100px;
+}
+
+.icon{
+    width: 90%;
+}
+
+footer{
+    background-color: rgba(47, 77, 152, 1);
+    padding: 10px 0px;
+}
+
+footer p{
+    background-color: rgba(47, 77, 152, 1);
+    font-size: 24px;
+    margin: 10px 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.icon{
+    border: 1px solid black;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 20px;
+}
+
+.main{
+    width: 340px;
+    float: right;
+    margin: 30px;
+
+}
+
+.text{
+    font-size: 30px;
+}
+
+.icons{
+    height: 250px;
+    margin: 20px;
+}
+
+div{
+    margin: 20px;
+}
